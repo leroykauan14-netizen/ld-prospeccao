@@ -1,8 +1,8 @@
 {
-  "versao": "1.5.0",
+  "versao": "1.5.1",
   "data": "2026-11-25",
-  "notas": "- Atualização automática: o app avisa quando sai versão nova e atualiza com um clique, sem mexer nos seus dados.",
-  "arquivo": "versoes/LD-Prospeccao-1.5.0.exe",
-  "tamanho": 12685584,
-  "sha256": "823f448a73f21c30a3a4bb28b9b20d6afa32f5e98d89f43a613af7acb1a47140"
+  "notas": "- Tradutor grátis: sem a chave da Anthropic, o tradutor usa a chave grátis da Groq (a mesma dos áudios) para traduzir textos e respostas.",
+  "arquivo": "versoes/LD-Prospeccao-1.5.1.exe",
+  "tamanho": 12686428,
+  "sha256": "1510bb888227dd7c8e76ef5c8649533644c4da9a7bbfc642c8885382c03d446a"
 }
