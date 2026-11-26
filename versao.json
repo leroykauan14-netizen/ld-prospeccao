@@ -1,8 +1,8 @@
 {
-  "versao": "1.5.1",
-  "data": "2026-11-25",
-  "notas": "- Tradutor grátis: sem a chave da Anthropic, o tradutor usa a chave grátis da Groq (a mesma dos áudios) para traduzir textos e respostas.",
-  "arquivo": "versoes/LD-Prospeccao-1.5.1.exe",
-  "tamanho": 12686428,
-  "sha256": "1510bb888227dd7c8e76ef5c8649533644c4da9a7bbfc642c8885382c03d446a"
+  "versao": "1.6.1",
+  "data": "2026-11-26",
+  "notas": "- Correção: o follow-up não sai mais para quem já respondeu. Antes de cada follow-up o app confere o Gmail inteiro (inclusive e-mails arquivados, respostas de outro endereço e mensagens que você mesmo respondeu).\n- Follow-up agora tem botão de ligar e desligar em Configurações, Ritmo de envio. Vem desligado.\n- Se o mesmo e-mail aparecer em dois canais, o app só manda uma vez.",
+  "arquivo": "versoes/LD-Prospeccao-1.6.1.exe",
+  "tamanho": 12691015,
+  "sha256": "48cdeedcdc91f0d62ed0aadd95d0c382148bbdef1d968843c497e33af79541cf"
 }
