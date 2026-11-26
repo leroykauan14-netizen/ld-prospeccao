@@ -1,8 +1,8 @@
 {
-  "versao": "1.5.1",
-  "data": "2026-11-25",
-  "notas": "- Tradutor grátis: sem a chave da Anthropic, o tradutor usa a chave grátis da Groq (a mesma dos áudios) para traduzir textos e respostas.",
-  "arquivo": "versoes/LD-Prospeccao-1.5.1.exe",
-  "tamanho": 12686428,
-  "sha256": "1510bb888227dd7c8e76ef5c8649533644c4da9a7bbfc642c8885382c03d446a"
+  "versao": "1.6.0",
+  "data": "2026-11-26",
+  "notas": "- Visual novo: cores, letras e espaçamentos mais limpos, no tema claro e no escuro.\n- Ícone novo com a logo LD (na área de trabalho, no menu Iniciar e na janela do app).\n- Nada mudou no funcionamento.",
+  "arquivo": "versoes/LD-Prospeccao-1.6.0.exe",
+  "tamanho": 12683463,
+  "sha256": "b54ca46e9580ffe2146d4c05cce5ccc33f0f14a5a97be8cf96cfca6bb9552b3c"
 }
